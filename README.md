@@ -1,2 +1,1 @@
-# basic-particle-system
-a basic particle sysem using python
+click anywhere on screen to spawn particles at the cursor
